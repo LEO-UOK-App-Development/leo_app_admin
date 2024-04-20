@@ -53,7 +53,7 @@ class _AdminPageState extends State<AdminPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Image.asset(
-                  'assets/images/logo.PNG',
+                  'assets/images/applogo.png',
                   width: 120.0,
                   height: 120.0,
                   fit: BoxFit.cover,
